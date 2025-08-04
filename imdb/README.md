@@ -199,30 +199,5 @@ Backend ayarları `backend/app.py` dosyasında yapılandırılabilir:
 - Büyük dosya yüklemelerinde zaman aşımı olabilir
 - İnternet bağlantısı olmadan film verileri yüklenemez
 
-## 🤝 Katkıda Bulunma
 
-1. Fork edin
-2. Feature branch oluşturun (`git checkout -b feature/yeni-ozellik`)
-3. Değişikliklerinizi commit edin (`git commit -am 'Yeni özellik eklendi'`)
-4. Branch'inizi push edin (`git push origin feature/yeni-ozellik`)
-5. Pull Request oluşturun
 
-## 📄 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakın.
-
-## 📞 İletişim
-
-- **Geliştirici**: [İsminiz]
-- **E-posta**: [email@example.com]
-- **GitHub**: [github-kullanici-adiniz]
-
-## 🙏 Teşekkürler
-
-- [The Movie Database (TMDb)](https://www.themoviedb.org/) - Film verileri için
-- [Flutter Team](https://flutter.dev/) - Harika framework için
-- [Flask Community](https://flask.palletsprojects.com/) - Backend framework için
-
----
-
-**Not**: Bu uygulama eğitim amaçlı geliştirilmiştir. Ticari kullanım için TMDb API kullanım koşullarını kontrol edin.
